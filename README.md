@@ -1,5 +1,3 @@
-# dio-desafio-github-carlos
+# Desafio de projeto dio-desafio-github-carlos
 
 Meu primeiro repositório com GitHub
-
-Desafio de Projeto sobre GitHub
